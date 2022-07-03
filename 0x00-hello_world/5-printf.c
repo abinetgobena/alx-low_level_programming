@@ -1,4 +1,4 @@
-#include <stdto.h>
+#include <stdio.h>
 
 /**
  * main - prints the phrase with proper grammsr,
